@@ -1,7 +1,7 @@
 ### Hello 👋 My name is OwO_Max or simply Max.
 
 I am the founder of Xelioss Bot.
-[Website 💻](https://xoliess.ga) - [Discord 💬](https://discord.gg/D9QNw8u)
+<br />[Website 💻](https://xoliess.ga) **-** [Discord 💬](https://discord.gg/D9QNw8u)
 
 <!--
 **OwOMax/OwOMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
