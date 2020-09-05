@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour 👋 Je m'appelle OwO_Max ou tout simplement Max x)
+
+Je suis le fondateur de Xelioss Bot.
 
 <!--
 **OwOMax/OwOMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
