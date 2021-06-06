@@ -1,7 +1,8 @@
 ### Hello 👋 My name is OwO_Max or simply Max.
 
-I am the founder of Xelioss Bot.
-<br />[Website 💻](https://xoliess.ga) **-** [Discord 💬](https://discord.gg/D9QNw8u)
+I am the founder of Xelioss Bot and Night-API.
+<br />[Xoliess' Website 💻](https://xoliess.ga) **-** [Xoliess' Discord 💬](https://discord.gg/D9QNw8u)
+<br />[Night-API's Website 💻](https://night-api.ga) **-** [Night-API's Discord 💬](https://discord.gg/95vq89mfvS$)
 
 <!--
 **OwOMax/OwOMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
