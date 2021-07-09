@@ -1,6 +1,6 @@
-### Hello 👋 My name is OwO_Max or simply Max.
+### Hello 👋 My name is **Max**.
 
-I am the founder of Xelioss Bot and Night-API.
+I am the founder of Xoliess Bot and Night-API.
 <br />[Xoliess' Website 💻](https://xoliess.ga) **-** [Xoliess' Discord 💬](https://discord.gg/D9QNw8u)
 <br />[Night-API's Website 💻](https://night-api.ga) **-** [Night-API's Discord 💬](https://discord.gg/95vq89mfvS$)
 
