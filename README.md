@@ -35,7 +35,7 @@ Toutes les actions effectuées sur votre serveur sont envoyé dans un salon logs
 
 [Xoliess](https://discord.gg/D9QNw8u) est en constante évolution même si vous ne le voyez pas nous l'améliorons de jour en jour :)
 
-## :ticket: <a name = "ticket_bot"></a>
+## :ticket: Ticket Bot Support <a name = "ticket_bot"></a>
 
 Vous me direz que le nom ressemble un peut à celui de ticket tool et bien oui c'est vrai mais cette fois si ticket bot support et un bot 100% français.
 Avec son système de création du ticket via réaction que vous pouvez définir via une commande ou alors directement sur le dashbaord du Bot.
