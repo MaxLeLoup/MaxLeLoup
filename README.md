@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img style='width: 50px;	height: 50px;' src="https://cdn.discordapp.com/attachments/751411669049147412/863053292027772948/52738651.jpg" alt="Max LeLoup"></a>
+ <img style='width: 10px;	height: 10px;' src="https://cdn.discordapp.com/attachments/751411669049147412/863053292027772948/52738651.jpg" alt="Max LeLoup"></a>
 </p>
 <h3 align="center">Max LeLoup</h3>
 
