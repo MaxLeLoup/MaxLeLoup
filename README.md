@@ -4,7 +4,7 @@
 
 [![Ticket Bot Discord](https://img.shields.io/discord/836621015865098241?style=for-the-badge)](https://discord.gg/P8Ugn8JTRC)
 
-[![Xoliess.ga](https://img.shields.io/mozilla-observatory/grade-score/xoliess.ga?publish&style=for-the-badge)](https://xoliess.ga)
+[![Xoliess](https://img.shields.io/mozilla-observatory/grade-score/xoliess.ga?label=Xoliess&publish&style=for-the-badge)](https://xoliess.ga)
 [![Xoliess Discord](https://img.shields.io/discord/590450664363261952?style=for-the-badge)](https://discord.gg/D9QNw8u)
 
 </div>
