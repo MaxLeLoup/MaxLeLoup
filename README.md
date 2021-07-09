@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![Ticket Bot Discord](https://img.shields.io/discord/836621015865098241?style=for-the-badge)](https://discord.gg/P8Ugn8JTRC)
+[![Ticket Bot Discord](https://img.shields.io/discord/836621015865098241?label=Discord%20Ticket%20Bot%20Support&style=for-the-badge)](https://discord.gg/P8Ugn8JTRC)
 
 [![Xoliess](https://img.shields.io/mozilla-observatory/grade-score/xoliess.ga?label=Xoliess&publish&style=for-the-badge)](https://xoliess.ga)
-[![Xoliess Discord](https://img.shields.io/discord/590450664363261952?style=for-the-badge)](https://discord.gg/D9QNw8u)
+[![Xoliess Discord](https://img.shields.io/discord/590450664363261952?label=Discord%20Xoliess&style=for-the-badge)](https://discord.gg/D9QNw8u)
 
 </div>
 
