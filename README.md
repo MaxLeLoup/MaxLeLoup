@@ -14,9 +14,6 @@
 
 <p align="center"> 
 Bienvenue sur mon profil :)
-
-Ici vous retrouverez tous projets auquel j'ai participé ou que j'ai moi-même fais.
-    <br> 
 </p>
 
 
