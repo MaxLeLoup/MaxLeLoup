@@ -4,20 +4,28 @@
 
 <div align="center">
   <a href='https://discord.gg/2HYMjnZxjC'>
+    <img src="https://lanyard.cnrad.dev/api/393807140013342722&idleMessage=Wait..."/>
+  </a>
+</div>
+
+<hr>
+
+<div align="center">
+  <a href='https://discord.gg/2HYMjnZxjC'>
     <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?username=MaxLeLoup&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr"/>
     <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLeLoup&lang=FR&theme=codeSTACKr"/>
   </a>
 </div>
 
 <h3>Projects</h3>
-  <div>    
+<div>
 
-<div> 
-    <p>statsMember</p>  
+<div>
+    <p>statsMember</p>
     <a href="https://discord.gg/2HYMjnZxjC" target="_blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
     </a>
-    <p>Night-Group</p>  
+    <p>Night-Group</p>
     <a href="https://discord.gg/2YGTq5tdWV" target="_blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
     </a>
@@ -40,7 +48,7 @@
 <img align="center" alt="Electron" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
 
 <hr>
-<h3>Tools</h3> 
+<h3>Tools</h3>
 <img align="center" alt="Npm" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 <img align="center" alt="Git" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img align="center" alt="Github" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
