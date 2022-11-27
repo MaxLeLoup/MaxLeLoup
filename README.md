@@ -12,19 +12,15 @@
 <h3>Projects</h3>
   <div>    
 
-<div>    
-    <div>
-      <p>statsMember</p>  
-      <a href="https://discord.gg/2HYMjnZxjC" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-      </a> 
-    </div>
-    <div>
-      <p>Night-Group</p>  
-      <a href="https://discord.gg/2YGTq5tdWV" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-      </a> 
-    </div>
+<div> 
+    <p>statsMember</p>  
+    <a href="https://discord.gg/2HYMjnZxjC" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+    </a>
+    <p>Night-Group</p>  
+    <a href="https://discord.gg/2YGTq5tdWV" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+    </a>
 </div>
 
 <hr>
