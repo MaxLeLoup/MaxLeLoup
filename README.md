@@ -4,12 +4,13 @@
 
 <div align="center">
   <a href='https://discord.gg/2HYMjnZxjC'>
-    <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?  username=MaxLeLoup&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr"/>
+    <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?username=MaxLeLoup&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr"/>
     <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLeLoup&lang=FR&theme=codeSTACKr"/>
   </a>
 </div>
 
 <h3>Projects</h3>
+  <div>    
 
 <div>    
     <div>
