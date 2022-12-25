@@ -59,12 +59,3 @@
 <img align="center" alt="NGINX" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
 <img align="center" alt="Fillezilla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
 <img align="center" alt="PremierPro" height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobepremierepro.svg">
-
-<hr>
-  
-  **My Steam Profile** *(from [SteamID.pro](https://steamid.pro/lookup/76561198379263825))*
-
-* **Worth:** $591
-* **Games owned:** 60
-* **Games played:** 41 *(68.333333333333%)*
-* **Hours on record:** 5931h 50m
