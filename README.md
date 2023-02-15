@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hello everyone, I'm Max!</h1>
 
-<hr>
-
 <div align="center">
   <a href='discord://-/users/393807140013342722'>
     <img src="https://lanyard.cnrad.dev/api/393807140013342722?idleMessage=Wait..."/>
@@ -59,3 +57,8 @@
 <img align="center" alt="NGINX" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
 <img align="center" alt="Fillezilla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
 <img align="center" alt="PremierPro" height="55" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobepremierepro.svg">
+  
+   <hr>
+  Copyright ©️ 2022, <a href="https://github.com/LACOSTAR91">LACOSTAR91</a> (Do not edit the line, keep the original author of this readme)</br>
+  No copy the profile without fork it or keep the copyright. Do not become a skid and respect the work of others.
+  <!-- Original author: https://github.com/LACOSTAR91 -->
