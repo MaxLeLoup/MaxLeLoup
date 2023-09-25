@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello everyone, I'm Max!</h1>
 
 <div align="center">
-  <a href='discord://-/users/393807140013342722'>
-    <img src="https://lanyard.cnrad.dev/api/393807140013342722?idleMessage=Wait..."/>
+  <a href='discord://-/users/747166010574110840'>
+    <img src="https://lanyard.cnrad.dev/api/747166010574110840?idleMessage=Wait..."/>
   </a>
 </div>
 
